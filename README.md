@@ -8,7 +8,7 @@
 ![Downloads](https://static.pepy.tech/badge/vimeodlpy)
 ![Last Commit](https://img.shields.io/github/last-commit/moijesuis2enmoi/vimeodlpy)
 ![Issues](https://img.shields.io/github/issues/moijesuis2enmoi/vimeodlpy)
-![GitHub stars](https://img.shields.io/github/stars/moijesuis2enmoi/vimeodl)(<https://github.com/moijesuis2enmoi/vimeodl/stargazers>)
+![GitHub stars](https://img.shields.io/github/stars/moijesuis2enmoi/vimeodlpy?style=)
 ---
 
 ## Overview
